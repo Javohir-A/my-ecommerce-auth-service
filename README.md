@@ -1,0 +1,1 @@
+# my-ecommerce-auth-service
